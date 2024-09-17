@@ -1,4 +1,4 @@
-/* message passing example from www.mpitutorial.com */
+/* based on message passing example from www.mpitutorial.com */
 
 #include <mpi.h>
 #include <stdio.h>
